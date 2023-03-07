@@ -27,11 +27,11 @@
 |90|девяносто||900|девятсот||9000|девять тысяч|
 |||||||10000|десять тысяч|
 
-**NEW UPDATE
+## NEW UPDATE
 
 ![4DPA-1](https://github.com/huynt7/4PDA/blob/main/img/4dpa-1.jpg)
 
-**Here's a example
+## Here's a example
 
 ![4DPA-1](https://github.com/huynt7/4PDA/blob/main/img/4dpa-2.jpg)
 
