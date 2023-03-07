@@ -33,7 +33,7 @@
 
 ## Here's a example
 
-![4DPA-1](https://github.com/huynt7/4PDA/blob/main/img/4dpa-2.jpg)
+![4DPA-2](https://github.com/huynt7/4PDA/blob/main/img/4dpa-2.jpg)
 
 The number in the image above is 8691
 
